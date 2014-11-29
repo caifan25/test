@@ -3,7 +3,7 @@
 
     <string name="app_name">My First App</string>
      <string name="edit_message">Enter a message another message test</string>
-    <string name="button_send">Send</string>
+    <string name="button_send">Send test</string>
     <string name="action_settings">Settings</string>
 
 </resources>
